@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<head>
+		<u><i><b><font size="15"><font color="red"> practice</font></u></b></i>
+		<form> 
+	student id <input type="number">
+	student name <input type="text">
+	phone No <input type="number">
+</head>
+<body>
+
+</body>
+</html>
